@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="SI_DeepPurple">#FF060F38</color>
+    <color name="SI_Purple">#FF7656FD</color>
+    <color name="SI_Yellow">#FFFFF250</color>
+    <color name="SI_Grey">#FFF2F2F2</color>
+</resources>

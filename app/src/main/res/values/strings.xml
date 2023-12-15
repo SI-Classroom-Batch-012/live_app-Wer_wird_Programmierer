@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wer wird Programmierer?</string>
+    <string name="game_over">Spiel beendet!</string>
+    <string name="game_won">GEWONNEN!</string>
+    <string name="you_won_amount">Du nimmst %1$d Euro mit nach Hause</string>
+    <string name="exit">verlassen</string>
+    <string name="play_again">neu starten</string>
+    <string name="emoji_won">💰</string>
+    <string name="emoji_lost">😕</string>
+</resources>
